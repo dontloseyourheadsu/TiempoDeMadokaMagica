@@ -3,6 +3,8 @@
 
 This is a Madoka Magica fan page that plans to show information about characters, witches, news and possibly include Madoka Magica themed games.
 
+Visit the advancements at: http://tiempodemadokamagica.netlify.app
+
 ## Conceptual Roadmap
 
 - Add Wiki Section.
